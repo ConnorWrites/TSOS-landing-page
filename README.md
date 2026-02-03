@@ -20,4 +20,4 @@ Things I would like to add:
 Run Locally:
 Clone the repository:
    ```bash
-   git clone https://github.com/ConnorWrites/project-name.git
+   git clone https://connorwrites.github.io/TSOS-landing-page/
