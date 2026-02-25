@@ -1,4 +1,4 @@
-The Secret of Stories: The Realm Landing Page.
+## The Secret of Stories: The Realm Landing Page.
 
 This is a website where customers can find more information about 'The Secret of Stories: The Realm', upcoming publications from the author, and presents a simple way to buy the book. 
 
