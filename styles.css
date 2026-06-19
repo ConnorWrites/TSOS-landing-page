@@ -9,7 +9,7 @@ top:0px;
 overflow:hidden; 
 border-bottom: 1px dotted #32d32d; z-index:1;}
 
-.header {width:100%; justify-content:space-evenly; }
+.header, h1 {width:100%; justify-content:space-evenly; }
 
 .navbar ul {display:flex; list-style-type:none; justify-content:space-evenly; }
 
