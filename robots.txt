@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://connorwrites.github.io/TSOS-landing-page/sitemap.xml
